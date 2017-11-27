@@ -8,7 +8,7 @@
    ```
 -  Compress a file
    ```sh
-	tar czf <compressed-file-name>.tar.gz <to-compress-dir>
+       tar czf <compressed-file-name>.tar.gz <to-compress-dir>
    ```
    
 -  scp to ec2 instance
@@ -17,7 +17,7 @@
      ```
 -  Checking directory sizes
    ```sh
-    du -sh directory_name
+    	du -sh directory_name
     ```
 -  View memory usage
    ```sh
